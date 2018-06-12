@@ -1,0 +1,8 @@
+[package]
+name = "health-bar"
+version = "0.1.0"
+authors = ["Michael Johnson"]
+
+[dependencies]
+blinkt = "0.4"
+palette = "0.4"
